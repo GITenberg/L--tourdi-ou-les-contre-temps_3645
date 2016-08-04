@@ -1,0 +1,33 @@
+_repo: L--tourdi-ou-les-contre-temps_3645
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Moliere
+    - Molière, Jean Baptiste Poquelin de
+    - Poquelin de Molière, Jean Baptiste
+    - Poquelin, Jean-Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3645'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PQ'
+- GITenberg
+title: L'Étourdi ou les contre-temps
+url: http://www.gutenberg.org/ebooks/3645
